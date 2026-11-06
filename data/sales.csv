@@ -1,0 +1,16 @@
+product_id,month,units_sold
+P001,January,280
+P001,February,300
+P001,March,310
+P002,January,220
+P002,February,240
+P002,March,260
+P003,January,170
+P003,February,180
+P003,March,190
+P004,January,100
+P004,February,110
+P004,March,120
+P005,January,140
+P005,February,150
+P005,March,160

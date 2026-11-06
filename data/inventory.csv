@@ -1,0 +1,6 @@
+product_id,product_name,current_stock,daily_demand,safety_stock
+P001,Laptop,15,10,20
+P002,Mouse,120,8,15
+P003,Keyboard,25,6,12
+P004,Monitor,10,4,10
+P005,Headphones,80,5,10

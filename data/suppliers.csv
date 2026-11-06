@@ -1,0 +1,16 @@
+supplier_id,supplier_name,product_id,cost_per_unit,delivery_days
+S001,FastSupply,P001,52000,2
+S002,ValueMart,P001,49000,5
+S003,QuickTrade,P001,51000,3
+S004,FastSupply,P002,450,2
+S005,ValueMart,P002,400,5
+S006,QuickTrade,P002,430,3
+S007,FastSupply,P003,800,2
+S008,ValueMart,P003,750,5
+S009,QuickTrade,P003,780,3
+S010,FastSupply,P004,12000,2
+S011,ValueMart,P004,11500,5
+S012,QuickTrade,P004,11800,3
+S013,FastSupply,P005,1500,2
+S014,ValueMart,P005,1400,5
+S015,QuickTrade,P005,1450,3
